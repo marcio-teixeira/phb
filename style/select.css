@@ -1,0 +1,26 @@
+/* Select */
+div.cmf-skinned-select{
+	background:url(images/icones/seta-select.gif) no-repeat right center #fff !important;
+	border: 1px solid #aba499;
+	height:22px !important;
+	float: left;
+}	
+
+div.cmf-skinned-text{
+	padding:5px !important;
+}
+
+div.cmf-skinned-select select{
+	color: #000 !important;
+	height: 22px !important;
+	left: 0px !important;
+	padding: 0 19px 0 0 !important;
+	top: 0px !important;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+div.cmf-skinned-select .select2{width: 300px}
+option{
+	border:none !important;
+	background:#FFF;
+}
