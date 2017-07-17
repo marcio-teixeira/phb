@@ -28,8 +28,8 @@
                 <div class="col-lg-12 visible-lg visible-md">
                     <nav class="mainMenu">
                         <ul>            	
-                            <li><a href="<?php echo url_path() ?>" title="Institucional">INSTITUCIONAL</a></li>
-                            <li><a href="<?php echo url_path() ?>" title="Produtos">PRODUTOS</a></li>
+                            <li><a href="<?php echo url_path() ?>institucional.php" title="Institucional">INSTITUCIONAL</a></li>
+                            <li><a href="<?php echo url_path() ?>produtos.php" title="Produtos">PRODUTOS</a></li>
                             <li><a href="<?php echo url_path() ?>" title="Assistência Técnica no Brasil">ASSISTÊNCIA TÉCNICA NO BRASIL</a></li>
                             <li><a href="<?php echo url_path() ?>" title="Treinamentos">TREINAMENTOS</a></li>
                             <li><a href="<?php echo url_path() ?>" title="Forma de Pagamento">FORMA DE PAGAMENTO</a></li>
@@ -48,8 +48,8 @@
 </header>
 <nav id="menuMobile">
     <ul>            	
-        <li><a href="<?php echo url_path() ?>" title="Institucional">INSTITUCIONAL</a></li>
-        <li><a href="<?php echo url_path() ?>" title="Produtos">PRODUTOS</a></li>
+        <li><a href="<?php echo url_path() ?>institucional.php" title="Institucional">INSTITUCIONAL</a></li>
+        <li><a href="<?php echo url_path() ?>produtos.php" title="Produtos">PRODUTOS</a></li>
         <li><a href="<?php echo url_path() ?>" title="Assistência Técnica no Brasil">ASSISTÊNCIA TÉCNICA NO BRASIL</a></li>
         <li><a href="<?php echo url_path() ?>" title="Treinamentos">TREINAMENTOS</a></li>
         <li><a href="<?php echo url_path() ?>" title="Forma de Pagamento">FORMA DE PAGAMENTO</a></li>

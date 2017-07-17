@@ -21,8 +21,8 @@
                 <div class="col-sm-4">
                     <nav class="menuFooter">
                         <ul>            	
-                            <li><a href="<?php echo url_path() ?>" title="Institucional">Institucional</a></li>
-                            <li><a href="<?php echo url_path() ?>" title="Produtos">Produtos</a></li>
+                            <li><a href="<?php echo url_path() ?>institucional.php" title="Institucional">Institucional</a></li>
+                            <li><a href="<?php echo url_path() ?>produtos.php" title="Produtos">Produtos</a></li>
                             <li><a href="<?php echo url_path() ?>" title="Assistência Técnica no Brasil">Assistência Técnica no Brasil</a></li>
                             <li><a href="<?php echo url_path() ?>" title="Treinamentos">Treinamentos</a></li>
                             <li><a href="<?php echo url_path() ?>" title="Forma de Pagamento">Forma de Pagamento</a></li>
